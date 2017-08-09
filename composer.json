@@ -1,0 +1,13 @@
+{
+    "name": "ruogoo/user-blocks",
+    "description": "Block user.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "HyanCat",
+            "email": "hyancat@live.cn"
+        }
+    ],
+    "require": {}
+}
